@@ -1,6 +1,6 @@
 package com.example.youthlabdemo.apiPayLoad;
 
-import com.example.study.apiPayload.code.status.SuccessStatus;
+import com.example.youthlabdemo.apiPayLoad.code.status.SuccessStatus;
 import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.annotation.JsonPropertyOrder;

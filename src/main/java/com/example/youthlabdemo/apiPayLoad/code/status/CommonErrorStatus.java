@@ -1,7 +1,8 @@
 package com.example.youthlabdemo.apiPayLoad.code.status;
 
-import com.example.study.apiPayload.code.BaseErrorCode;
-import com.example.study.apiPayload.code.ErrorReasonDTO;
+
+import com.example.youthlabdemo.apiPayLoad.code.BaseErrorCode;
+import com.example.youthlabdemo.apiPayLoad.code.ErrorReasonDTO;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import org.springframework.http.HttpStatus;

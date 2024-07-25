@@ -1,8 +1,9 @@
 package com.example.youthlabdemo.apiPayLoad.exception;
 
-import com.example.study.apiPayload.ApiResponse;
-import com.example.study.apiPayload.code.ErrorReasonDTO;
-import com.example.study.apiPayload.code.status.ErrorStatus;
+
+import com.example.youthlabdemo.apiPayLoad.ApiResponse;
+import com.example.youthlabdemo.apiPayLoad.code.ErrorReasonDTO;
+import com.example.youthlabdemo.apiPayLoad.code.status.ErrorStatus;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.validation.ConstraintViolationException;
 import lombok.extern.slf4j.Slf4j;
